@@ -14,7 +14,7 @@
     "native-base": "^2.13.8",
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "react-native": "0.59.10",
+    "react-native": "0.62.3",
     "react-native-ble-plx": "^1.1.0",
     "react-native-bluetooth-classic": "^0.9.3",
     "react-native-bluetooth-serial": "^1.0.0-rc1",
